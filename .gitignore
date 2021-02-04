@@ -7,3 +7,6 @@ lib
 db.json
 home-flux-server.code-workspace
 links.txt
+*.jpg
+*.jpeg
+/images
